@@ -9,7 +9,7 @@
 
 Click on Code button and then click on Download ZIP
 OR
-Use `git clone https://github.com/ContentUpgrad/Linear-Regression.git` command on your terminal if git is installed in your machine. 
+Use `https://github.com/prbtkr19/bike_sharing_assignment.git` command on your terminal if git is installed in your machine. 
 
 
 ### What is where?
